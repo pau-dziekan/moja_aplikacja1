@@ -1,0 +1,30 @@
+nav {
+    background-color: black;
+    height: 50px;
+    
+}
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}    
+
+ul {
+        text-decoration: none;
+        color:black;
+        list-style: none;
+        text-transform: uppercase;
+        color: white;
+      }
+
+      li {
+          float:left;
+          padding: 15px;
+          text-decoration: none;
+      }
+
+     
+
+     Link {
+         color:white;
+     }
